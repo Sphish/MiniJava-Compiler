@@ -9,6 +9,7 @@ public class Variable extends Identifier {
 		super(r, c, tn, n);
 		owner = o;
 		initialized = i;
+		rType = tn;
 	}
 
 }

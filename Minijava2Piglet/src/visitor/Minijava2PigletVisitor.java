@@ -206,9 +206,11 @@ public class Minijava2PigletVisitor extends GJDepthFirst<Type, Type> {
 		PigletPrinter.print("MOVE TEMP " + arrayIdx + " ");
 		n.f0.accept(this, argu);
 		PigletPrinter.println("");
-		PigletPrinter.println("CJUMP LT TEMP " + arrayIdx + " 1 L + labelInit");
+		PigletPrinter.println("CJUMP LT TEMP " + arrayIdx + " 1 L" + labelInit);
 		PigletPrinter.println("ERROR");
 		PigletPrinter.println("L" + labelInit + " HLOAD TEMP " + retIdx + " TEMP " + arrayIdx + " 0");
+		PigletPrinter.println("RETURN TEMP " + retIdx);
+		PigletPrinter.printEnd();
 		return null;
 	}
 
@@ -232,7 +234,7 @@ public class Minijava2PigletVisitor extends GJDepthFirst<Type, Type> {
 			tClass = (Class) tIdent;
 		else {
 			Method tMethod = (Method) argu;
-			tClass = classList.getClass(tMethod.getVariable(tIdent.getName()).getType());
+			tClass = classList.getClass((tMethod.getVariable(tIdent.getName())).rType);
 		}
 
 		tIdent = (Identifier) n.f2.accept(this, tClass);
@@ -387,6 +389,7 @@ public class Minijava2PigletVisitor extends GJDepthFirst<Type, Type> {
 		PigletPrinter.println("HSTORE PLUS TEMP " + arrayIdx + " TIMES 4 TEMP " + tIdx + " 4 0");
 		PigletPrinter.println("MOVE TEMP " + tIdx + " PLUS 1 TEMP " + tIdx);
 		PigletPrinter.println("JUMP L" + labelStart);
+		PigletPrinter.println("L" + labelEnd + " NOOP");
 		PigletPrinter.println("RETURN TEMP " + arrayIdx);
 		PigletPrinter.printEnd();
 		return null;
@@ -517,6 +520,7 @@ public class Minijava2PigletVisitor extends GJDepthFirst<Type, Type> {
 		Method tMethod = (Method) argu;
 		Class tClass = tMethod.getOwner();
 		String name = tIdent.getName();
+		Variable tVar = tMethod.getVariable(name);
 		int idx = -1, tNum = -1;
 		//Variable lVar = tMethod.getVariable(name);
 
@@ -534,7 +538,20 @@ public class Minijava2PigletVisitor extends GJDepthFirst<Type, Type> {
 			PigletPrinter.println("HSTORE TEMP 0 " + tClass.getVariablePos(name) + " ");
 		}
 
-		n.f2.accept(this, argu);
+		Identifier exp = (Identifier) n.f2.accept(this, argu);
+		if (exp != null) {
+			if (exp instanceof Class) {
+				tVar.rType = exp.getType();
+			}
+			else {
+				// normal variable
+				if (exp.getRow() == 0 && exp.getColumn() == 0) {
+					Variable ttVar = (Variable) ((Method) argu).getVariable(exp.getName());
+					tVar.rType = ttVar.rType;
+				} else // allocation
+					tVar.rType = exp.getType();
+			}
+		}
 		PigletPrinter.println("");
 		if (tMethod.isParam(name) && idx >= 18)
 			PigletPrinter.println("HSTORE TEMP 19 " + 4 * (idx - 18) + " TEMP " + tNum);

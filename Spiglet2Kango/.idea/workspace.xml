@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="927e7602-ec1f-4377-9972-6be61a0d64c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Minijava2Piglet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/out/production/Minijava/javacc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/out/production/Minijava/jtb132.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/out/production/Minijava/symbol/Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Minijava2Piglet/out/production/Minijava/symbol/Variable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/out/production/Minijava/visitor/Minijava2PigletVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Minijava2Piglet/out/production/Minijava/visitor/Minijava2PigletVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/pg1.pg" beforeDir="false" afterPath="$PROJECT_DIR$/../Minijava2Piglet/pg1.pg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/JTBToolkit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/JavaCharStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/MiniJavaParser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/MiniJavaParser$JJCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/MiniJavaParser$LookaheadSuccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/MiniJavaParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/MiniJavaParserConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/MiniJavaParserTokenManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/TokenMgrError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/printer/PigletPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/ClassList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/Identifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Minijava2Piglet/src/symbol/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/AllocationExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/AndExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ArrayAllocationExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ArrayAssignmentStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ArrayLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ArrayLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ArrayType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/AssignmentStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/BooleanType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/BracketExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ClassDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ClassExtendsDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/CompareExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ExpressionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ExpressionRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/FalseLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/FormalParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/FormalParameterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/FormalParameterRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/Identifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/IntegerLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/IntegerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/MessageSend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/MethodDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/MinusExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NodeChoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NodeListInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NodeListOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NodeOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NodeSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NodeToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/NotExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/PlusExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/PrimaryExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/PrintStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/ThisExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/TimesExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/TrueLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/TypeDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/VarDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/syntaxtree/WhileStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/BuildSymbolTableVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/GJDepthFirst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/GJNoArguVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/GJVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/GJVoidVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/Minijava2PigletVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/Minijava2PigletVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/Minijava2PigletVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/TypeCheckVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minijava2Piglet/src/visitor/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Piglet2Spiglet/src/javacc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Piglet2Spiglet/src/jtb132.jar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1213281481">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="52" />
+          <entry key="java" value="5202" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5202" />
+          <entry key="PLAIN_TEXT" value="52" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="330496774">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/visitor/Spiglet2KangaVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/visitor/BuildFlowGraphVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/visitor/BuildFlowGraph2Visitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/symbol/Liveinterval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/symbol/Liveness.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/symbol/ProcedureBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/symbol/RegAlloc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2121">
+              <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>curLineNum</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>curLine</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/visitor/S2Kvisitor.java" />
+        <option value="$PROJECT_DIR$/src/visitor/BuildNode.java" />
+        <option value="$PROJECT_DIR$/src/symbol/Liveinterval.java" />
+        <option value="$PROJECT_DIR$/src/symbol/ProcedureBlock.java" />
+        <option value="$PROJECT_DIR$/src/symbol/RegAlloc.java" />
+        <option value="$PROJECT_DIR$/src/visitor/BuildNode2.java" />
+        <option value="$PROJECT_DIR$/src/visitor/BuildFlowGraph2Visitor.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="580" />
+    <option name="y" value="233" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spiglet2Kanga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spiglet2Kanga" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spiglet2Kanga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spiglet2Kanga" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559461289878" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="S2K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S2K" />
+      <module name="Spiglet2Kanga" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S2K" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="927e7602-ec1f-4377-9972-6be61a0d64c2" name="Default Changelist" comment="" />
+      <created>1559457068605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559457068605</updated>
+      <workItem from="1559457071681" duration="4528000" />
+      <workItem from="1560719471373" duration="333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4861000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25259793" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33146966" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/S2K.java" />
+    <entry file="file://$PROJECT_DIR$/src/visitor/GJVoidDepthFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/GJNoArguVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/GJNoArguDepthFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../minijava_compiler_ref/lab4/visitor/S2Kvisitor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symbol/FlowGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symbol/RegAlloc.class" />
+    <entry file="file://$PROJECT_DIR$/src/symbol/ProcedureBlock.class" />
+    <entry file="file://$PROJECT_DIR$/src/visitor/Spiglet2KangaVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symbol/Liveinterval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symbol/Liveness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symbol/ProcedureBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symbol/RegAlloc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/BuildFlowGraph2Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/BuildFlowGraphVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

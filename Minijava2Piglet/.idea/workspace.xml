@@ -5,275 +5,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11e3390c-1d3d-4c4d-9536-4a1e713c67ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Piglet2Spiglet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Piglet2Spiglet/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Piglet2Spiglet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Piglet2Spiglet/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Piglet2Spiglet/Piglet2Spiglet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/Compiler.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compiler/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/BinaryTree-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/BubbleSort-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/Factorial-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/LinearSearch-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/LinkedList-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/Minijava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/MoreThan4-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/QuickSort-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/TreeVisitor-error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/JTBToolkit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/JavaCharStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/MiniJavaParser$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/MiniJavaParser$JJCalls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/MiniJavaParser$LookaheadSuccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/MiniJavaParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/MiniJavaParserConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/MiniJavaParserTokenManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/ParseException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/Token.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/TokenMgrError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/javacc-6.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/javacc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/jtb.out.jj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/jtb132.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/minijava.jj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/symbol/Class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/symbol/ClassList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/symbol/Identifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/symbol/Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/symbol/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/symbol/Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/AllocationExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/AndExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ArrayAllocationExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ArrayAssignmentStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ArrayLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ArrayLookup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ArrayType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/AssignmentStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/Block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/BooleanType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/BracketExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ClassDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ClassExtendsDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/CompareExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/Expression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ExpressionList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ExpressionRest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/FalseLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/FormalParameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/FormalParameterList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/FormalParameterRest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/Goal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/Identifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/IfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/IntegerLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/IntegerType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/MessageSend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/MethodDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/MinusExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NodeChoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NodeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NodeListInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NodeListOptional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NodeOptional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NodeSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NodeToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/NotExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/PlusExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/PrimaryExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/PrintStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/Statement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/ThisExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/TimesExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/TrueLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/TypeDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/VarDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/syntaxtree/WhileStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/BuildSymbolTableVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/DepthFirstVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/GJDepthFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/GJNoArguDepthFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/GJNoArguVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/GJVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/GJVoidDepthFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/GJVoidVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/TypeCheckVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/out/production/Minijava/visitor/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/JTBToolkit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/JavaCharStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/JavaCharStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParser$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParser$JJCalls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParser$LookaheadSuccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParserConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParserConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParserTokenManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/MiniJavaParserTokenManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/ParseException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/ParseException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/Token.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/Token.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/TokenMgrError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/TokenMgrError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/javacc-6.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/javacc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/jtb.out.jj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/jtb132.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/minijava.jj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/printer/PigletPrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/ClassList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/ClassList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Identifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Identifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/symbol/Variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/AllocationExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/AllocationExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/AndExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/AndExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayAllocationExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayAllocationExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayAssignmentStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayAssignmentStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayLookup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayLookup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ArrayType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/AssignmentStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/AssignmentStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Block.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/BooleanType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/BooleanType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/BracketExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/BracketExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ClassDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ClassDeclaration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ClassExtendsDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ClassExtendsDeclaration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/CompareExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/CompareExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Expression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Expression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ExpressionList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ExpressionList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ExpressionRest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ExpressionRest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FalseLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FalseLiteral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FormalParameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FormalParameter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FormalParameterList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FormalParameterList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FormalParameterRest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/FormalParameterRest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Goal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Goal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Identifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Identifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/IfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/IfStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/IntegerLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/IntegerLiteral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/IntegerType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/IntegerType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MessageSend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MessageSend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MethodDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MethodDeclaration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MinusExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/MinusExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeChoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeChoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeListInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeListInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeListOptional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeListOptional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeOptional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeOptional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NodeToken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NotExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/NotExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/PlusExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/PlusExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/PrimaryExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/PrimaryExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/PrintStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/PrintStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Statement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Statement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ThisExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/ThisExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/TimesExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/TimesExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/TrueLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/TrueLiteral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/Type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/TypeDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/TypeDeclaration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/VarDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/VarDeclaration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/WhileStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/syntaxtree/WhileStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/BuildSymbolTableVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/BuildSymbolTableVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/DepthFirstVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJDepthFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJDepthFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJNoArguDepthFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJNoArguVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJNoArguVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJVoidDepthFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJVoidVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/GJVoidVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/Minijava2PigletVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/TypeCheckVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/TypeCheckVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Minijava/src/visitor/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Minijava/javacc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Minijava/jtb132.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Minijava/symbol/Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Minijava/symbol/Variable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Minijava/visitor/Minijava2PigletVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Minijava/visitor/Minijava2PigletVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg1.pg" beforeDir="false" afterPath="$PROJECT_DIR$/pg1.pg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JTBToolkit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCharStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniJavaParser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniJavaParser$JJCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniJavaParser$LookaheadSuccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniJavaParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniJavaParserConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniJavaParserTokenManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TokenMgrError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printer/PigletPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symbol/Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symbol/ClassList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symbol/Identifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symbol/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symbol/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symbol/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symbol/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/symbol/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/AllocationExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/AndExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ArrayAllocationExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ArrayAssignmentStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ArrayLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ArrayLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ArrayType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/AssignmentStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/BooleanType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/BracketExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ClassDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ClassExtendsDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/CompareExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ExpressionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ExpressionRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/FalseLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/FormalParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/FormalParameterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/FormalParameterRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/Identifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/IntegerLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/IntegerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/MessageSend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/MethodDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/MinusExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NodeChoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NodeListInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NodeListOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NodeOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NodeSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NodeToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/NotExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/PlusExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/PrimaryExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/PrintStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/ThisExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/TimesExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/TrueLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/TypeDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/VarDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syntaxtree/WhileStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/BuildSymbolTableVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/GJDepthFirst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/GJNoArguVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/GJVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/GJVoidVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/Minijava2PigletVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/Minijava2PigletVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/Minijava2PigletVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/TypeCheckVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Piglet2Spiglet/src/javacc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Piglet2Spiglet/src/jtb132.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -327,32 +145,39 @@
     <session id="-814512139">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="pg" value="2" />
+          <entry key="java" value="4" />
+          <entry key="pg" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="4" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="66" />
+          <entry key="java" value="573" />
+          <entry key="pg" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="66" />
+          <entry key="JAVA" value="573" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -364,8 +189,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/visitor/Minijava2PigletVisitor.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="6132">
-                  <caret line="534" column="16" selection-start-line="534" selection-start-column="16" selection-end-line="534" selection-end-column="16" />
+                <state relative-caret-position="-5558">
+                  <caret line="237" column="16" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -374,19 +199,13 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/BubbleSort.pg">
+            <entry file="file://$PROJECT_DIR$/test21.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pg1.pg">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="363">
-                  <caret line="550" column="8" selection-start-line="550" selection-end-line="550" selection-end-column="8" />
+                <state relative-caret-position="651">
+                  <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#0#843#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -406,7 +225,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BinaryTree.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2036">
+                <state relative-caret-position="3759">
                   <caret line="191" column="30" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="30" />
                 </state>
               </provider>
@@ -424,10 +243,12 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/symbol/Class.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1302">
-                  <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+                <state relative-caret-position="336">
+                  <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#1105#1106#0" expanded="true" />
+                    <element signature="e#1126#1127#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -452,11 +273,6 @@
                   </folding>
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/symbol/ClassList.class">
-              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -512,34 +328,29 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../../minijava_compiler_ref/lab2/visitor/Minijava2PigletVisitor.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="664">
+                  <caret line="722" column="28" selection-start-line="722" selection-start-column="28" selection-end-line="722" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/symbol/Variable.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="42">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                <state relative-caret-position="273">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/MiniJavaParser$1.class">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../../minijava_compiler_ref/lab2/visitor/Minijava2PigletVisitor.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1575">
-                  <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/jtb.out.jj">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="762">
-                  <caret line="939" column="6" lean-forward="true" selection-start-line="939" selection-start-column="6" selection-end-line="939" selection-end-column="6" />
+                <state relative-caret-position="8190">
+                  <caret line="907" column="7" selection-start-line="907" selection-end-line="907" selection-end-column="7" />
                   <folding>
                     <element signature="e#2093#2220#0" expanded="true" />
                     <element signature="e#2279#2298#0" expanded="true" />
@@ -614,7 +425,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
+                <state relative-caret-position="231">
                   <caret line="15" selection-start-line="15" selection-end-line="15" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -627,7 +438,7 @@
             <entry file="file://$PROJECT_DIR$/Minijava.iml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="252">
-                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                  <caret line="12" selection-start-line="12" selection-end-line="12" />
                 </state>
               </provider>
             </entry>
@@ -664,18 +475,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ExpressionList</find>
-      <find>Mess</find>
-      <find>-2</find>
-      <find>HSTORE</find>
-      <find>Allocation</find>
-      <find>MessageSe</find>
-      <find>Message</find>
-      <find>AssignmentSta</find>
-      <find>MessageSend</find>
-      <find>Alloc</find>
-      <find>Allocat</find>
-      <find>Allocati</find>
       <find>[</find>
       <find>HSTORE TEMP</find>
       <find>-1</find>
@@ -694,6 +493,18 @@
       <find>PrimaryExpression</find>
       <find>LL_Start</find>
       <find>TEMP 0</find>
+      <find>Method</find>
+      <find>MethodDeclaration() :</find>
+      <find>+ &quot;HL</find>
+      <find>Arrat</find>
+      <find>ArrayLe</find>
+      <find>primary</find>
+      <find>HLOAD</find>
+      <find>Assign</find>
+      <find>alloc</find>
+      <find>allocation</find>
+      <find>.rtype</find>
+      <find>Message</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -710,12 +521,13 @@
         <option value="$PROJECT_DIR$/src/visitor/errorPrinter.java" />
         <option value="$PROJECT_DIR$/src/printer/PigletPrinter.java" />
         <option value="$PROJECT_DIR$/src/symbol/Method.java" />
-        <option value="$PROJECT_DIR$/src/symbol/Variable.java" />
         <option value="$PROJECT_DIR$/../../minijava_compiler_ref/lab2/visitor/Minijava2PigletVisitor.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/BubbleSort.pg" />
         <option value="$PROJECT_DIR$/src/symbol/Class.java" />
+        <option value="$PROJECT_DIR$/src/symbol/Variable.java" />
         <option value="$PROJECT_DIR$/src/visitor/Minijava2PigletVisitor.java" />
+        <option value="$PROJECT_DIR$/src/test21.pg" />
       </list>
     </option>
   </component>
@@ -726,10 +538,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="674" />
-    <option name="y" value="426" />
-    <option name="width" value="1390" />
-    <option name="height" value="924" />
+    <option name="x" value="580" />
+    <option name="y" value="233" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -738,6 +550,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -750,18 +563,31 @@
               <item name="Minijava2Piglet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Minijava2Piglet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Minijava2Piglet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="symbol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Minijava2Piglet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Minijava2Piglet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="getMethod&#9;PSI&#9;JAVA://symbol.Class#getMethodPos" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558146573856" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559463130707" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spiglet2Kango" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -780,7 +606,7 @@
       <output_file path="pg1.pg" is_save="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Minijava" />
-      <option name="PROGRAM_PARAMETERS" value="LinkedList.java" />
+      <option name="PROGRAM_PARAMETERS" value="test21.java" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -810,18 +636,21 @@
       <workItem from="1556983589694" duration="18932000" />
       <workItem from="1557506126309" duration="665000" />
       <workItem from="1557514686790" duration="145000" />
-      <workItem from="1558144174710" duration="2333000" />
+      <workItem from="1558144174710" duration="2707000" />
+      <workItem from="1558239227698" duration="3499000" />
+      <workItem from="1559455992261" duration="1077000" />
+      <workItem from="1559461609434" duration="1479000" />
+      <workItem from="1560719404108" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73871000" />
+    <option name="totallyTimeSpent" value="80362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="2542" height="1323" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12721416" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13189448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -832,13 +661,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3290735" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915255" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36144578" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.17332268" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3298722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -900,9 +729,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/visitor/Minijava2PigletVisitor.java</url>
-          <line>402</line>
+          <line>249</line>
           <properties />
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -942,20 +771,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MiniJavaParserTokenManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParseException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/syntaxtree/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1004,10 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36225">
           <caret line="1727" column="9" selection-start-line="1727" selection-start-column="9" selection-end-line="1727" selection-end-column="9" />
-          <folding>
-            <element signature="e#43007#43008#0" expanded="true" />
-            <element signature="e#43036#43037#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1068,13 +879,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../minijava_compiler_ref/lab2/visitor/TypeCheckVisitor2.java" />
-    <entry file="file://$PROJECT_DIR$/src/printer/PigletPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/symbol/ClassList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1093,10 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,18 +904,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7266">
           <caret line="360" column="20" selection-start-line="360" selection-start-column="18" selection-end-line="360" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BubbleSort.pg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pg1.pg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/printer/PigletPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symbol/ClassList.class" />
+    <entry file="file://$PROJECT_DIR$/src/MiniJavaParser$1.class" />
+    <entry file="file://$PROJECT_DIR$/src/test21.pg" />
+    <entry file="file://$PROJECT_DIR$/test21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
-            <element signature="e#0#7136#0" expanded="true" />
+            <element signature="e#0#843#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/syntaxtree/NodeChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#490#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3759">
+          <caret line="191" column="30" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/symbol/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+        <state relative-caret-position="336">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1136,9 +993,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/symbol/ClassList.class">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/symbol/Identifier.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1187,56 +1041,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/symbol/Variable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MiniJavaParser$1.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../minijava_compiler_ref/lab2/visitor/Minijava2PigletVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/syntaxtree/AllocationExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/syntaxtree/MethodDeclaration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Minijava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jtb.out.jj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
-          <caret line="939" column="6" lean-forward="true" selection-start-line="939" selection-start-column="6" selection-end-line="939" selection-end-column="6" />
+        <state relative-caret-position="8190">
+          <caret line="907" column="7" selection-start-line="907" selection-end-line="907" selection-end-column="7" />
           <folding>
             <element signature="e#2093#2220#0" expanded="true" />
             <element signature="e#2279#2298#0" expanded="true" />
@@ -1307,48 +1120,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pg1.pg">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="550" column="8" selection-start-line="550" selection-end-line="550" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/syntaxtree/NodeChoice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="231">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#490#491#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/Minijava.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2036">
-          <caret line="191" column="30" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="30" />
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/syntaxtree/AllocationExpression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BubbleSort.pg">
+    <entry file="file://$PROJECT_DIR$/src/syntaxtree/MethodDeclaration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="294">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../minijava_compiler_ref/lab2/visitor/Minijava2PigletVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="722" column="28" selection-start-line="722" selection-start-column="28" selection-end-line="722" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/visitor/Minijava2PigletVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6132">
-          <caret line="534" column="16" selection-start-line="534" selection-start-column="16" selection-end-line="534" selection-end-column="16" />
+        <state relative-caret-position="-5558">
+          <caret line="237" column="16" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
